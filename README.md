@@ -9,6 +9,7 @@ The developed code includes the CA implementation using PyCUDA, tested with both
 ## Repository Description
 
 * **Notebooks:** Contains the CA implementation on GPUs using toy and real data, along with performance assessment visualizations.
+
 **NOTE:** Notebooks can be runned on Google Colabs notebooks which offers GPUs using, altough with certain limitations. 
 * **Data:** Sentinel-2 imagery from the Paraná River Delta (Argentina), acquired between July and September 2020.  
 * **Results_visz:** Includes an animation of the GPU implementation results on the S2 data and visualizations of computation time improvements.
