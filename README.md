@@ -1,4 +1,4 @@
-# Cellular Automata GPU Implementation
+# Cellular Automaton GPU Implementation
 
 ## Project Description
 
